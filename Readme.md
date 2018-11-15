@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CustomTimeRulerSample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CustomTimeRulerSample/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/CustomTimeRulerSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CustomTimeRulerSample/MainWindow.xaml.vb))
+* [MyTimeRulerFormatStringService.cs](./CS/CustomTimeRulerSample/MyTimeRulerFormatStringService.cs) (VB: [MyTimeRulerFormatStringService.vb](./VB/CustomTimeRulerSample/MyTimeRulerFormatStringService.vb))
+<!-- default file list end -->
 # How to customize TimeRuler time scales
 
 
